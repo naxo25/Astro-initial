@@ -1,0 +1,17 @@
+{
+	"name":"naxwebnx",
+	"short_name":"naxwebnx",
+	"description":"Ignacio Labra <https://github.com/naxo25>",
+	"display":"standalone",
+	"start_url":"https://naxwebnx.web.app/",
+	"orientation":"portrait",
+	"background_color":"#131312",
+	"theme_color":"#027be3",
+	"icons":[
+		{
+			"src":"/ico.png",
+			"sizes":"124x124",
+			"type":"image/png"
+		}
+	]
+}
